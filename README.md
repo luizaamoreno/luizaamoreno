@@ -1,9 +1,14 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm currently completing my studies in Full Stack Programming at Infinity School in Fortaleza, Brazil. I've always been passionate about technology and related fields. While I already possessed design skills, last year I decided to challenge myself by learning something new. 🤓
+So, here I am. ✨
+My core strengths lie in HTML, CSS, and JavaScript. I have a deep love for learning and exploring new possibilities in the world of programming. Currently, I'm working on developing a Point of Sale (POS) system for a mini-market. This project includes features such as inventory management, order processing, and a dashboard that displays key information about inventory levels and sales data.
 
 <!--
 **luizaamoreno/luizaamoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
